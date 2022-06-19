@@ -10,7 +10,8 @@ Rock Paper Scissors Game in Python.
 This project was created as part of assessment task for thed ongoing Full Stack Zuri Training/Internship program I'm privileged to participate in. Even though this wasn't as easy as I would haved loved it to be, I'm sure as I keep learning Python and other programming languages and have a better understanding, I believe I will get better.
 
    >> Tutotials That Helped:
-   
+   https://www.tutorialsteacher.com/python/random-module
+   https://realpython.com/python-rock-paper-scissors/
 
 
    >> Built With
